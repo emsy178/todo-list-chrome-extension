@@ -1,0 +1,64 @@
+body {
+  width: 400px;
+  height: auto;
+}
+
+h2 {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.list-container {
+  background-color: #ff5500b6;
+  width: 100%;
+  height: auto;
+  padding: 20px 0;
+}
+
+.item-container {
+  width: 95%;
+  margin: auto;
+  border-radius: 10px 10px;
+  background-color: #068DA9;
+  border: none;
+}
+
+.item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 10px;
+  position: relative; /* Ajoutez une position relative pour que ::before soit positionné correctement */
+  margin-bottom: 5px; /* Ajoute une séparation entre chaque élément .item */
+  border: none;
+  color: antiquewhite;
+}
+
+.item::before {
+  content: "";
+  position: absolute;
+  bottom: 10%;
+
+  left: 10px;
+  right: 10px;
+  margin: auto;
+  height: 1px;
+  background-color: rgba(0, 0, 0, 0.089);
+}
+
+.btn-container {
+}
+
+.btn-container span {
+  background-color: azure;
+  border-radius: 12px 12px;
+  padding: 4px;
+  font-size: 20px;
+  cursor: pointer;
+}
+.btn-container span:first-child {
+  color: rgb(61, 179, 25);
+}
+.btn-container span:last-child {
+  color: rgb(192, 14, 14);
+}
