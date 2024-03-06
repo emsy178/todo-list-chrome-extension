@@ -5,7 +5,7 @@ L'extension To-Do List offre des fonctionnalités de gestion de tâches simples,
 git clone https://github.com/emsy178/todo-list-chrome-extension.git
 ```
 ## Ajout de l' extension a chrome
-Dans chrome, allez dans la page chrome://extensions puis activez le  mode developpeur . Cliquez sur `Load unpacked`  puis naviguez vers  le `dossier de l' application` et ouvrez le. Apres avoir suivis l ' installation l' extension devrais etre installer. Bonne utilisation !!
+Dans chrome, allez dans la page chrome://extensions, puis activez le  mode developpeur . Cliquez sur `Load unpacked`  puis naviguez vers  le `dossier de l' application` et ouvrez le. Apres avoir suivis l ' installation l' extension devrais etre installer. Bonne utilisation !!
 
 
 
