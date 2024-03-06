@@ -6,7 +6,7 @@ git clone https://github.com/emsy178/todo-list-chrome-extension.git
 ```
 ## Ajout de l' extension a chrome
 
-Dans Chrome, allez sur la page chrome://extensions, puis activez le mode développeur. Cliquez sur 'Load unpacked', puis naviguez jusqu'au dossier de l'application et ouvrez-le. Après avoir suivi l'installation, l'extension devrait être installée. Bonne utilisation !!
+Dans Chrome, allez sur la page chrome://extensions, puis activez le mode développeur. Cliquez sur `Load unpacked`, puis naviguez jusqu'au dossier de l'application , appuyer sur ouvrir. Après avoir suivi l'installation, l'extension devrait être installée. Bonne utilisation !!
 
 
 
